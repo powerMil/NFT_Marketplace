@@ -1,0 +1,16 @@
+{
+  "description": "Friendly Dog", 
+  "external_url": "", 
+  "image": "https://bafybeidzmilugituu5kvbswrl5sphbeyu6zx7tjzodfuywexboqyv6z6am.ipfs.dweb.link/dog1.jpg", 
+  "name": "My Dog",
+  "attributes": [
+        {
+        "trait_type": "Color", 
+        "value": "Gold"
+        }, 
+        {
+        "trait_type": "Breed", 
+        "value": "Golden Retriever"
+        }
+    ]
+}
